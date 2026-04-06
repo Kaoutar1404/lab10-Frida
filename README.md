@@ -41,7 +41,7 @@ python -c "import frida, sys; print('frida', frida.__version__)"
 
 ### Captures d'écran
 
-![Installation pip install frida frida-tools](Screenshot_2026-04-06_155743.png)
+![Installation pip install frida frida-tools](pip install frida.png)
 > Téléchargement et installation de frida 17.9.1 (41.9 MB) et frida-tools 14.8.1 via pip.
 
 ![Vérification frida --version et frida-ps --help](Screenshot_2026-04-06_155836.png)
